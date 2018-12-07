@@ -1,5 +1,5 @@
 # manna_daily
-FOR ENTERPRISE LEVELS ONLY - Up-to-date database tables for new installations or "out-of-sync" sites to reinstall network database tables and data.
+ONLY USED AND REQUIRED FOR ENTERPRISE LEVELS INSTALLATIONS - These are up-to-date database tables for use during new installations or to be used on rare occasions if an enterprise leve gets "out-of-sync" and they need to reinstall network database tables and data.
 
 New installations of the enterprise level are guided through the process by the script to create the Manna Network databases, users and tables on their sites and to then fill those tables with the latest categories and links of the distributed web directory. 
 
